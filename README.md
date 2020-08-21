@@ -43,7 +43,7 @@ using MERN (MongoDB, Express, React.js, node.js)
 
 
 </br>
-![raspberrypi](raspberrypi.png)
+![raspberrypi](raspberrypi.jpg)
 </br>
 
 
