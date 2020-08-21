@@ -3,7 +3,7 @@
 ~ *Esra Oktav [2020/08/15]*
 
 </br>
----------------------------------
+_In memory of my dog Bamse_
 
 </br>
 
@@ -26,10 +26,6 @@ using MERN (MongoDB, Express, React.js, node.js)
 - Responsive (Should work to use on *every* devices).
 </br>
 
-#### Future Extra Challanges:
-- [ ] Notifications to mobile when the water level reaches a certain level.
-- [ ] Water level shown visually.
-</br>
 
 --------------
 
@@ -90,7 +86,15 @@ npm run start
 
 ![waterlevel](waterlevel.png)
 
-## Author
+
+</br>
+
+#### Future Extra Challanges:
+- [ ] Notifications to mobile when the water level reaches a certain level.
+- [ ] Water level shown visually.
+</br>
+
+### Author
 **Esra Oktav**
 
 - github/
