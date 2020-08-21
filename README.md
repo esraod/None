@@ -3,8 +3,12 @@
 ~ *Esra Oktav [2020/08/15]*
 
 </br>
-_In memory of my dog Bamse_
 
+~ *In memory of my dog Bamse* ~
+
+</br>
+
+------------------------------
 </br>
 
 ## The Idea
@@ -26,8 +30,22 @@ using MERN (MongoDB, Express, React.js, node.js)
 - Responsive (Should work to use on *every* devices).
 </br>
 
+## Raspberry PI Components 
 
---------------
+- [Raspberry Pi Zero WH](https://www.electrokit.com/en/product/raspberry-pi-zero-wh-board-with-header-2/)
+- [Jumper wires 1-pin male-male](https://www.electrokit.com/en/product/jumper-wires-1-pin-male-male-150mm-10-pack/)
+- [Jumper wires 1-pin male-female](https://www.electrokit.com/en/product/jumper-wires-1-pin-male-female-150mm-10-pack/)
+- [MCP3008](https://www.electrokit.com/en/product/mcp3008-i-p-dip-16-adc-8-ch-10-bit-spi/)
+- [Breadboard](https://www.electrokit.com/en/product/solderless-breadboard-840-tie-points-2/)
+- [USB-cable - microUSB](https://www.electrokit.com/en/product/usb-kabel-med-strombrytare-microusb-2/)
+- [Memory card micro SDHC 8GB](https://www.electrokit.com/en/product/memory-card-microsdhc-8gb/)
+- [water level sensor](https://www.kjell.com/se/produkter/el-verktyg/arduino/tillbehor/luxorparts-vattensensor-for-arduino-p87889)
+
+
+</br>
+![raspberrypi](raspberrypi.png)
+</br>
+
 
 ## How to run it
 
