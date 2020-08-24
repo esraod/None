@@ -44,7 +44,7 @@ using MERN (MongoDB, Express, React.js, node.js)
 
 </br>
 
-![raspberrypi](raspberrypi.jpg)
+![raspberrypi](docs/raspberrypi.jpg)
 
 </br>
 
@@ -104,7 +104,7 @@ npm run start
 ## Result 
 -----------------
 
-![waterlevel](waterlevel.png)
+![waterlevel](docs/waterlevel.png)
 
 
 </br>
